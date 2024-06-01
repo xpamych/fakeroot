@@ -6,7 +6,7 @@ import (
 	"syscall"
 	"testing"
 
-	"lure.sh/fakeroot"
+	"plemya-x.ru/fakeroot"
 )
 
 func TestCommand(t *testing.T) {

@@ -7,8 +7,8 @@ import (
 	"os"
 	"os/exec"
 
-	"lure.sh/fakeroot"
-	"lure.sh/fakeroot/loginshell"
+	"plemya-x.ru/fakeroot"
+	"plemya-x.ru/fakeroot/loginshell"
 )
 
 func main() {
