@@ -1,3 +1,3 @@
-module plemya-x.ru/fakeroot
+module plemya-x./fakeroot
 
 go 1.21
